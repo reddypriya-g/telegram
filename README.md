@@ -1,8 +1,18 @@
-# Getting Started with Create React App
+This website is a simple telegram clone which contains features of theme conversion , pinning messages, and retrieving chats from api's (live chat box is not yet implemented).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Live Demo
+https://telegram-five-sable.vercel.app
+## Code
 
-## Available Scripts
+You can simply clone it using 
+`git clone https://github.com/reddypriya-g/telegram.git`
+
+## Dependencies 
+
+Download necessary modules by using 
+### `npm install`
+
+## Scripts to Run
 
 In the project directory, you can run:
 
